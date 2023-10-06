@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\code\Project2\Project2\源.cpp(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\code\Project2\Project2\源.cpp(19,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+  Project2.vcxproj -> E:\code\Project2\x64\Debug\Project2.exe
